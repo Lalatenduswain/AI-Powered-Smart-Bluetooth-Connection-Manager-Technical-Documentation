@@ -273,12 +273,3 @@ cd mobile/android
 ./gradlew assembleRelease
 # Output: app/build/outputs/apk/release/app-release.apk
 ```
-
----
-
-## 🛠️ Customization Options
-
-If you need specific features, I can provide:
-- A working prototype repository with setup instructions.
-- A tailored version (e.g., only audio switching and notification sync).
-- A mobile-to-PC file transfer module as a standalone feature.
